@@ -9,3 +9,6 @@ Jestem studentem trzeciego roku studiów inżynierskich w Państwowej Wyższej S
 ![Css3](https://raw.githubusercontent.com/mateuszjanczak/mateuszjanczak/master/badge-css3.svg)
 ![Javascript](https://raw.githubusercontent.com/mateuszjanczak/mateuszjanczak/master/badge-javascript.svg)
 ![Postgresql](https://raw.githubusercontent.com/mateuszjanczak/mateuszjanczak/master/badge-postgresql.svg)
+
+### Warto przeczytać
+[15 books that every programmer should buy](https://gsari.medium.com/15-books-that-every-programmer-should-buy-85525b509633)
