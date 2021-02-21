@@ -1,5 +1,5 @@
 ### O mnie
-Jestem studentem trzeciego roku studiów inżynierskich w Państwowej Wyższej Szkole Zawodowej w Tarnowie na kierunku informatyka stosowana. W przyszłości chciałbym zostać Full-Stack Developerem.
+Jestem studentem trzeciego roku studiów inżynierskich w Państwowej Wyższej Szkole Zawodowej w Tarnowie na kierunku informatyki stosowanej. Szukam praktyk lub stażu jako Java / Full-stack Developer na okres wakacji 2021.
 
 ### Technologie
 ![Java](https://raw.githubusercontent.com/mateuszjanczak/mateuszjanczak/master/badge-java.svg)
