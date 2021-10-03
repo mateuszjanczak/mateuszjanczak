@@ -1,5 +1,7 @@
 ### O mnie
-Jestem studentem trzeciego roku studiów inżynierskich w Państwowej Wyższej Szkole Zawodowej w Tarnowie na kierunku informatyki stosowanej.
+Pracuję w zespole Payment Gateway jako Java / Kotlin backend developer w Schibsted Tech Polska.
+
+Jestem studentem czwartego roku studiów inżynierskich PWSZ w Tarnowie na kierunku informatyki stosowanej.
 
 ### Technologie
 ![Java](https://raw.githubusercontent.com/mateuszjanczak/mateuszjanczak/master/badge-java.svg)
