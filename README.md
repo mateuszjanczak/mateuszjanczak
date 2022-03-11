@@ -1,7 +1,7 @@
 ### O mnie
 Pracuję w zespole Payment Gateway jako Java / Kotlin backend developer w Schibsted Tech Polska.
 
-Jestem absolwentem studiów inżynierskich PWSZ w Tarnowie na kierunku informatyki stosowanej.
+Jestem absolwentem studiów inżynierskich Akademii Nauk Stosowanych w Tarnowie na kierunku informatyki stosowanej.
 
 ### Technologie
 Kotlin - Java - Groovy - Spring - SQL - React - JavaScript - AWS - Terraform - Serverless
