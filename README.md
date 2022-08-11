@@ -1,5 +1,5 @@
 ### O mnie
-Pracuję w zespole Payment Gateway jako Backend Developer w Schibsted Tech Polska.
+Pracuję w zespole [Payment Gateway](https://www.schibsted.pl/news/payment-gateway-team/) jako Backend Developer w Schibsted Tech Polska.
 
 Jestem absolwentem studiów inżynierskich Akademii Nauk Stosowanych w Tarnowie na kierunku informatyki stosowanej.
 
