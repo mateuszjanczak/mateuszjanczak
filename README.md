@@ -1,6 +1,6 @@
 ### Hello, I'm Mateusz Janczak 🥷 Software Engineer from Poland! 💻
 
-I have been working in the fantastic Schibsted Payment team 🫶 for two years as a Backend Developer. We develop internal product - [Payment Gateway](https://www.schibsted.pl/news/payment-gateway-team/) 💰 that connects Scandinavian payment providers with Schibsted news media brands 📰. Additionally, I have graduated from engineering studies in the field of computer science 🎓 with a bachelor's degree.
+I have been working in the fantastic Schibsted Payment team 🫶 for three years as a Backend Developer. We develop internal product - [Payment Gateway](https://www.schibsted.pl/news/payment-gateway-team/) 💰 that connects Scandinavian payment providers with Schibsted news media brands 📰. Additionally, I have graduated from engineering studies in the field of computer science 🎓 with a bachelor's degree.
 
 I develop software/infrastructure 🔧 using: 
 
