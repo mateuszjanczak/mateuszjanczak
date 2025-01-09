@@ -4,24 +4,27 @@ I have been working in the fantastic Schibsted Payment team 🫶 for three years
 
 I develop software/infrastructure 🔧 using: 
 
-* Java
-* Kotlin
-* Typescript
-* Docker
-* Kubernetes
-* Serverless
-* Terraform
-* Grafana
-* Prometheus
-* ELK Stack
-* AWS Cloud
+* Java / Kotlin / Arrow-KT
+* Spring Boot / Ktor
+* Maven / Gradle
+* Elasticsearch / NoSQL
+* MySQL / PostgreSQL
+* Javascript / Typescript
+* Docker / Kubernetes
+* Serverless / Terraform
+* Grafana / Prometheus
+* Github Actions / Travis
+* Amazon Web Services (AWS)
+
 
 but the most important skills in software development are agnostic to programming language, so I am familiar with the following areas: 
 
-* SOLID
-* Clean Code
+* Object-Oriented Programming (OOP)
+* Functional Programming (FP)
+* SOLID / Clean Code / Design patterns
 * Domain Driven Design (DDD)
 * Software System Design
+* CQRS / Event Sourcing
 * Event Driven/Microservices Architecture
 * Clean/Onion/Hexagonal Architecture
 * Test/Behavior Driven Development (TDD/BDD)
