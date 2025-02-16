@@ -7,6 +7,7 @@ I develop software/infrastructure 🔧 using:
 * Java / Kotlin / Arrow-KT
 * Spring Boot / Ktor
 * Maven / Gradle
+* Apache Kafka
 * Elasticsearch / NoSQL
 * MySQL / PostgreSQL
 * Javascript / Typescript
@@ -33,6 +34,3 @@ but the most important skills in software development are agnostic to programmin
 * Infrastructure as Code (IaC)
 
 In my spare time, I improve my skills as a programmer 🧑‍💻 (because it's a never-ending process) and also practice flying FPV sports drones 🚁
-
-### Interesting articles on software engineering
-* [Medium - reading list](https://medium.com/@mateuszjanczak/list/lgtm-71bfb82bad81)
